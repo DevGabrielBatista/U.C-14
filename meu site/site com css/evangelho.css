@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Rationale&display=swap');
+
+body{
+    background-color:#ddb06d;
+    color: black;
+}
+
+#macaco {
+    text-align: center;
+    font-size: 250%;
+}
+
+.flamengo{
+    font-size: 50px;
+    font-family: "Rationale", sans-serif;
+    font-weight: bold;
+    text-align: left;
+}
+
+.gallery{
+    width: 100%;
+    text-align: center;
+}
+
+.gallery .image {
+    width: 70%;
+    display: block;
+    margin: 0 auto;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 20px;
+}
